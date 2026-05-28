@@ -1,0 +1,5 @@
+aiogram
+python-dotenv
+torch
+openai-whisper
+g4f
